@@ -41,7 +41,7 @@ Os dados foram obtidos a partir do repositório público:
     jupyter notebook analise_voos_nyc.ipynb
     ```
 
-## 📈 Principais Insights (Exemplos)
+## 📈 Principais Insights
 
 *   **Horário:** Os dados mostram uma progressão linear de atrasos ao longo do dia. A partir da manhã, a média de atraso sobe consistentemente a cada hora, atingindo seus picos à noite.
 *   **Sazonalidade:** Observou-se que os meses de Junho, Julho e Dezembro apresentam as maiores médias de atraso na partida.
