@@ -30,7 +30,7 @@ Os dados foram obtidos a partir do repositório público:
 
 1.  Clone este repositório:
     ```
-    git clone https://github.com/SEU_USUARIO/NOME_DO_REPO.git
+    git clone https://github.com/marques-joao/nyc-flights-analysis.git
     ```
 2.  Instale as dependências necessárias:
     ```
